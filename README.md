@@ -44,7 +44,7 @@ Technique | Description | Weight
 **TCP Options Order** | The order of TCP options may vary from one system to another | 2.5
 **ACK Flag** | Differentiate OSes based on the value of the Acknowledgment Number field in the TCP header when the ACK flag is set to zero | 1
 **URG flag** | Differentiate OSes based on the value of the Urgent Pointer field in the TCP header when the URG flag is set to zero | 1
-**Banner Grabbing** The HTTP reply from the web server may contain valuable information revealing the web server name and version as well as the OS name in some cases |
+**Banner Grabbing** | The HTTP reply from the web server may contain valuable information revealing the web server name and version as well as the OS name in some cases |
 
 You can run the attack tool by issuing the following command:
 
