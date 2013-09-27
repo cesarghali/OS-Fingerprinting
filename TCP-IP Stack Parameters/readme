@@ -1,0 +1,1 @@
+To modify the linux TCP/IP stack parameters such as Default TTL, change the values of the files in /proc/sys/net/ipv4
