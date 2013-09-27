@@ -83,6 +83,10 @@ A record of each client is stored at the server, where a state variable keeps in
 
 Furthermore, to protect against Banner Grabbing, the banner information in the source code of the Apache Web Server is modified, recompiled and reinstalled it. In addition, a script is written to change the Linux default TCP/IP stack parameters to avoid getting fingerprinted.
 
+You can run the attack tool by issuing the following command:
+
+> ./ofp_detect
+
 References
 ----------
 Imad Elhajj, American University of Beirut, <a href="http://staff.aub.edu.lb/~ie05/" target="_new">More</a>.
